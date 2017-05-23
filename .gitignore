@@ -1,0 +1,75 @@
+<html>
+	<head>
+		<title>fallas</title>
+	</head> 
+
+	<body background="pa.jpg"> 
+		<h1><p align="center"><font face="verdana" size="15" color="660033">Principales problemas de Software y Hardware</font></h1>
+		<p>
+		<h1><p align="center"><font face="verdana" size="15" color="660033">Software</font></h1>	
+		<table border="2" cellspacing="4" width="1000" align="center">
+			<tr>
+				<td><p align="center"><font size="50" face="forte" color="black"> Problema </td><td><font size="50" face="forte" bgcolor="BLACK">Solucion</td><td><font size="50" face="forte" bgcolor="BLACK"> Ejemplo:</td></font>
+			<tr>
+				<td><font color="#" size="4" face="verdana">El disco duro esta lento. </td><td><font size="4" face="" ="verdana" bgcolor="BLACK">podria estar necesitando un mantenimiento de rutina o usted podria cambiar la configuracion de la computadora para maximizar su rendimiento. Intente los siguientes consejos para maximizar la velocidad del disco duro</td><td><img src="DiscoDuro.jpg" alt="logotipo de mi empresa" title="logotipo echo por jonatan portillo" width="200" height="100" /></td>
+			<tr>
+				<td><font size="3" face="verdana" bgcolor="BLACK"> Unidad de CD-ROM no lee sus CDS</td><td><font size="3" face="verdana" bgcolor="BLACK">Asegurese que el cable no se halla soltado de la tarjeta madre. Si no es este el problema, podría ser que usted deshabilito e Administrador de desinstalación de los dispositivos para el CD-ROM.</td><td><img src="CDS.jpg">
+			<tr>
+				<td><font size="4" face="verdana" bgcolor="BLACK">Cierres inesperados de programas </td><td><font size="4" face="" ="verdana" bgcolor="BLACK">Congelamientos y pantallas de errores. Muchos de estos problemas son causados por spyware o programas espía. Si bien alcanzaría con tener y actualizar constantemente un programa anti-spyware, las causas pueden venir por otro lado, como por ejemplo la falta de drivers correctos para el hardware instalado</td><td><img src="programas.jpg">
+			<tr>
+				<td><font size="4" face="verdana" bgcolor="BLACK">problemas con el Panel de control</td><td><font size="4" face="" ="verdana" bgcolor="BLACK">haga clic en el boton Inicio, en Panel de control, en Sistema y mantenimiento y, a continuacion, en Informes de problemas y soluciones. Cuando se produce algun problema de hardware o de software en el equipo.</td><td><img src="panel de control.jpg">
+		
+			<tr>
+				<td><font size="4" face="verdana" bgcolor="BLACK">No se puede conectar a la Red </td><td><font size="4" face="" ="verdana" bgcolor="BLACK">Verificar si esta instalado por que se pudo haber borrado el archivo de aplicación</td><td><img src="red.jpg">
+		
+			<tr>
+				<td><font size="4" face="verdana" bgcolor="BLACK">No abre algun Archivo </td><td><font size="4" face="" ="verdana" bgcolor="BLACK">podria estar necesitando un mantenimiento de rutina o usted podria cambiar la configuracion de la computadora para maximizar su rendimiento. Intente los siguientes consejos para maximizar la velocidad del disco duro</td><td><img src="archivo.jpg">
+		
+			<tr>
+				<td><font size="4" face="verdana" bgcolor="BLACK">Microsoft office No abre ningún elemento ya sea Word ,Excel, etc.</td><td><font size="4" face="" ="verdana" bgcolor="BLACK">Instalar la aplicación correctamente o reinstalarla</td><td><img src="oficce.jpg"  width="200" height="100" />
+		
+			<tr>
+				<td><font size="4" face="verdana" bgcolor="BLACK">Google Chrome Se aben pestañas solas</td><td><font size="4" face="" ="verdana" bgcolor="BLACK">Descargar una barra de pop-ups y bloquear todo tipo de ventana</td><td><img src="google.jpg">
+		
+			<tr>
+				<td><font size="4" face="verdana" bgcolor="BLACK">No detecta virus </td><td><font size="4" face="" ="verdana" bgcolor="BLACK">Escanear disco en busca de virus o instalar nuevamente el antivirus</td><td><img src="virus.jpg"></td>
+		</tamble>
+		</p>
+		<p>
+		<table border="2" cellspacing="4" width="1000" align="center">
+		<h1><p align="center"><font face="verdana" size="15" color="660033">Hardware</font></h1>
+			<tr>
+				<td><p align="center"><font size="50" face="forte" bgcolor="BLACK"> Problema </td><td><font size="50" face="forte" bgcolor="BLACK">Solucion</td><td><font size="50" face="forte" bgcolor="BLACK"> Ejemplo:</td></font>
+			<tr>
+				<td><font size="4" face="verdana" bgcolor="BLACK">No enciende el monitor pero el PC si enciende correctamente. </td><td><font size="4" face="" ="verdana" bgcolor="BLACK">Primero se puede revisar si el cable del monitor esta bien conectado. Si no es eso se debe revisar la placa porque puede que esta se haya dañado.</td><td><img src="monitor.jpg"> 
+			<tr>
+				<td><font size="4" face="verdana" bgcolor="BLACK"> Procesador Huele a quemado y el PC no enciende.</td><td><font size="3" face="verdana" bgcolor="BLACK">Definitivamente si este no esta funcionando hay que cambiarlo y preocuparse por que el PC refrigere adecuadamente.</td><td><img src="procesador.jpg" width="200" height="100">
+		
+			<tr>
+				<td><font size="4" face="verdana" bgcolor="BLACK">Disipador El PC se apago o reinicia automaticamente mientras se esta utilizando. </td><td><font size="4" face="" ="verdana" bgcolor="BLACK">CLimpiar el procesador que probablemente tiene polvo acumulado y eso no permite su funcionamiento normal..</td><td><img src="disipador.jpg" width="200" height="100"> 
+		
+			<tr>
+				<td><font size="4" face="verdana" bgcolor="BLACK">Tarjeta madre En el primer caso puede que PC no encienda o quizas  encienda pero luego la pantalla se torne de color azul.</td><td><font size="4" face="" ="verdana" bgcolor="BLACK">Si esta se daa se tiene que cambiar la tarjeta por una compatible con las demas piezas del computador.</td><td><img src="tarjeta.jpg">
+		
+			<tr>
+				<td><font size="4" face="verdana" bgcolor="BLACK">Disco duro-El PC hace mas ruido de lo normal El sistema operativo se torna lento El computador se reinicia y en ocasiones no enciende</td><td><font size="4" face="" ="verdana" bgcolor="BLACK">Si este esta danado hay que recuperar la informacion ya que este es el que almacena el sistema operativo.</td><td><img src="DiscoDuro.jpg">
+		
+			<tr>
+				<td><font size="4" face="verdana" bgcolor="BLACK">Impresora No imprime o imprime distorsionada mente.</td><td><font size="4" face="" ="verdana" bgcolor="BLACK">Verifique la conexion o si imprime distorsionada mente debe configurarla para que el equipo la reconozca como “impresora predeterminada” o simplemente puede que esta no tenga tinta</td><td><img src="impresoraa.jpg">
+		
+			<tr>
+				<td><font size="4" face="verdana" bgcolor="BLACK">El escaner no funciona </td><td><font size="4" face="" ="verdana" bgcolor="BLACK">El escaner es de puerto paralelo. Si el puerto no aparece configurado correctamente en los Sistema Basico de Entrada y Salida (BIOS), puede causar problemas.</td><td><img src="escaner.jpg">
+		
+			<tr>
+				<td><font size="4" face="verdana" bgcolor="BLACK">El modem no responde</td><td><font size="4" face="" ="verdana" bgcolor="BLACK">Si este es interno revise que este fijo a la ranura de expansion, si es externo, revise que este en el puerto correcto y luego que este conectado a la linea telefonica.</td><td><img src="modem.jpg" width="300" height="200">
+		
+			<tr>
+				<td><font size="4" face="verdana" bgcolor="BLACK">CPU No enciende </td><td><font size="4" face="" ="verdana" bgcolor="BLACK">- Revisar en la parte de atrás el boton de encendido ver si esta apretado hacia el circulo Revisar el ventilador que no este con polvo</td><td><img src="cpuu.jpg"></td>
+		</table>
+		
+		
+		</p>
+
+
+
+</hyml> 
